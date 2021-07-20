@@ -7,3 +7,12 @@
 .section .main-title {
     margin-bottom: 60px;
 }
+
+.section.-bgGray {
+    background-color: #36393B;
+}
+
+.section.-bdFirst {
+    border-color: 10px solid #000;
+    
+}
