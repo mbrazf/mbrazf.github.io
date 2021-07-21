@@ -22,7 +22,8 @@
 
 .main-banner .navigation{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    width: 800px;
 }
 
 
