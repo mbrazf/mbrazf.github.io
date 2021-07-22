@@ -1,5 +1,4 @@
 .main-input {
-    display: block;
     box-sizing: border-box;
     background-color: #fff;
     font-size: 20px;
@@ -7,4 +6,8 @@
     width: 100%;
     border: 5px solid #000;
     padding: 0px 5px 0px 5px;
+}
+
+.main-input.-textarea {
+    height: 320px;
 }
